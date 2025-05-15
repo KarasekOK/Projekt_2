@@ -17,4 +17,4 @@ Skupina: P1
 ### Byl tento program zaměřenej hlavně na ně.
 
 ## Co jsem uělal?
-### Jednoduchý časově nenároční program na procvičení základních matematickích operaci (+ - * /) kde obsah programu je primarně z funkcí.
+### Jednoduchý časově nenároční program na procvičení základních matematickích operaci (+, -, *, /) kde obsah programu je primárně z funkcí.
