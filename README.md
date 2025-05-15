@@ -68,7 +68,8 @@ Skupina: P1
     def plus(rannum1, rannum2):
         rovnoP = rannum1 + rannum2
         print("Zprávný výsledek je",rovnoP)
-        def minus(rannum1, rannum2):
+        
+    def minus(rannum1, rannum2):
         rovnoM = rannum1 - rannum2
         print("Zprávný výsledek je",rovnoM)
         
