@@ -18,3 +18,5 @@ Skupina: P1
 
 ## Co jsem uělal?
 ### Jednoduchý časově nenároční program na procvičení základních matematickích operaci (+, -, *, /) kde obsah programu je primárně z funkcí.
+
+  ### Stránka ze který jsem čerpal informace o fungování funkcí [https://www.w3schools.com/](https://www.w3schools.com/python/python_functions.asp)
