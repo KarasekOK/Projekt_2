@@ -1,1 +1,1 @@
-# Projekt Jednoduchá_Matika
+# Projekt Program_Jednoduchá_Matika | Ondřej Karásek
