@@ -45,38 +45,38 @@ Skupina: P1
 
     def priklad():
 
-    if vyber_prikladu == 1:
-        print("Vypocítej příklad:",rannum1 ,"+", rannum2)
-        uzi_vyz1 = float(input("Zadej vysledek: "))
-        plus(rannum1,rannum2)
+        if vyber_prikladu == 1:
+            print("Vypocítej příklad:",rannum1 ,"+", rannum2)
+            uzi_vyz1 = float(input("Zadej vysledek: "))
+            plus(rannum1,rannum2)
 
-    elif vyber_prikladu == 2:
-        print("Vypocítej příklad:", rannum1 ,"-", rannum2)
-        uzi_vyz1 = float(input("Zadej vysledek: "))
-        minus(rannum1, rannum2)
+        elif vyber_prikladu == 2:
+            print("Vypocítej příklad:", rannum1 ,"-", rannum2)
+            uzi_vyz1 = float(input("Zadej vysledek: "))
+            minus(rannum1, rannum2)
 
-    elif vyber_prikladu == 3:
-        print("Vypocítej příklad:", rannum1 ,"*", rannum2)
-        uzi_vyz1 = float(input("Zadej vysledek: "))
-        naso(rannum1, rannum2)
+        elif vyber_prikladu == 3:
+            print("Vypocítej příklad:", rannum1 ,"*", rannum2)
+            uzi_vyz1 = float(input("Zadej vysledek: "))
+            naso(rannum1, rannum2)
 
-    elif vyber_prikladu == 4:
-        print("Vypocítej příklad:", rannum1 ,"/", rannum2)
-        uzi_vyz1 = float(input("Zadej vysledek: "))
-        delit(rannum1, rannum2)
+        elif vyber_prikladu == 4:
+            print("Vypocítej příklad:", rannum1 ,"/", rannum2)
+            uzi_vyz1 = float(input("Zadej vysledek: "))
+            delit(rannum1, rannum2)
 
     def plus(rannum1, rannum2):
-    rovnoP = rannum1 + rannum2
-    print("Zprávný výsledek je",rovnoP)
-    def minus(rannum1, rannum2):
-    rovnoM = rannum1 - rannum2
-    print("Zprávný výsledek je",rovnoM)
+        rovnoP = rannum1 + rannum2
+        print("Zprávný výsledek je",rovnoP)
+        def minus(rannum1, rannum2):
+        rovnoM = rannum1 - rannum2
+        print("Zprávný výsledek je",rovnoM)
     def naso(rannum1, rannum2):
-    rovnoN = rannum1 * rannum2
-    print("Zprávný výsledek je",rovnoN)
+        rovnoN = rannum1 * rannum2
+        print("Zprávný výsledek je",rovnoN)
     def delit(rannum1, rannum2):
-    rovnoD = rannum1 / rannum2
-    print("Zprávný výsledek je",rovnoD)
+        rovnoD = rannum1 / rannum2
+        print("Zprávný výsledek je",rovnoD)
 
     while True:
         rannum1 = random.randrange(0, 999)
