@@ -98,7 +98,11 @@ Skupina: P1
         elif vyber_prikladu == 4:
             priklad()
 ## Jak to funguje?
-### Program je rozdělenej na tři části
-### - Podávání příkladu (def priklad)
-### - Vypracování výsledku (def plus/minus/naso/delit)
+### V programu je zapotřebí knihovna random aby jsme mohly generovat čísla z našich nastavených hranic (v programu je hranice 0 až 999 pro obě proměné).
+### Program je rozdělenej na tři části.
 ### - Nekonečná smička (while True)
+### - Vypracování výsledku (def plus/minus/naso/delit)
+### - Podávání příkladu (def priklad)
+
+## Nekonečná smička (while True)
+#### V nekonečné smičce se nachází
