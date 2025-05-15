@@ -39,9 +39,11 @@ Skupina: P1
 #### Část z fukcemi zde:[Funkce](https://www.w3schools.com/python/python_functions.asp)
 
 ## Program
->import random
+> Matika
 
-def priklad():
+    import random
+
+    def priklad():
 
     if vyber_prikladu == 1:
         print("Vypocítej příklad:",rannum1 ,"+", rannum2)
@@ -63,33 +65,32 @@ def priklad():
         uzi_vyz1 = float(input("Zadej vysledek: "))
         delit(rannum1, rannum2)
 
-def plus(rannum1, rannum2):
+    def plus(rannum1, rannum2):
     rovnoP = rannum1 + rannum2
     print("Zprávný výsledek je",rovnoP)
-def minus(rannum1, rannum2):
+    def minus(rannum1, rannum2):
     rovnoM = rannum1 - rannum2
     print("Zprávný výsledek je",rovnoM)
-def naso(rannum1, rannum2):
+    def naso(rannum1, rannum2):
     rovnoN = rannum1 * rannum2
     print("Zprávný výsledek je",rovnoN)
-def delit(rannum1, rannum2):
+    def delit(rannum1, rannum2):
     rovnoD = rannum1 / rannum2
     print("Zprávný výsledek je",rovnoD)
 
-while True:
-    rannum1 = random.randrange(0, 999)
-    rannum2 = random.randrange(0, 999)
-    print("1. Sčítání")
-    print("2. Odečítání")
-    print("3. Nasobení")
-    print("4. Dělení")
-    vyber_prikladu = float(input("Napiš číslo podle toho co chceš počítat."))
-    if vyber_prikladu == 1:
-        priklad()
-    elif vyber_prikladu == 2:
-        priklad()
-    elif vyber_prikladu == 3:
-        priklad()
-    elif vyber_prikladu == 4:
-        priklad()
-        
+    while True:
+        rannum1 = random.randrange(0, 999)
+        rannum2 = random.randrange(0, 999)
+        print("1. Sčítání")
+        print("2. Odečítání")
+        print("3. Nasobení")
+        print("4. Dělení")
+        vyber_prikladu = float(input("Napiš číslo podle toho co chceš počítat."))
+        if vyber_prikladu == 1:
+            priklad()
+        elif vyber_prikladu == 2:
+            priklad()
+        elif vyber_prikladu == 3:
+            priklad()
+        elif vyber_prikladu == 4:
+            priklad()
