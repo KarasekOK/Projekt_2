@@ -105,4 +105,7 @@ Skupina: P1
 ### - Podávání příkladu (def priklad)
 
 ## Nekonečná smička (while True)
-#### V nekonečné smičce se nachází
+#### V nekonečné smičce se nachází generace dvou náhodných proměních |rannum1| a |rannum2| z stanoveními hranicemi 0 až 999.
+#### Pak program vypíše zpravy aby uživately oznamil možnosti mezi kterými si vybere číslem vypsaní ve zprávách.
+#### Po uživately je žádáno aby zadal čísla od 1 do 4 pokud zadá jiní program se ho zeptá znova dokud nedá zprávný (dály však písmeno program ohlásí chybu protože float příjmá poze čísla neboli jejich hodnoty a musí se program restartovat).
+#### Pak nás program zavede do série podmínek, podle čísla které jsme z těch tří vybrali se  posuneme do vnitřku splněné podmínky a spouštíme Podávání příkladu.
