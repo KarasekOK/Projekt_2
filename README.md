@@ -97,3 +97,8 @@ Skupina: P1
             priklad()
         elif vyber_prikladu == 4:
             priklad()
+## Jak to funguje?
+#### Program je rozdělenej na tři části
+#### - Podávání příkladu (def priklad)
+#### - Vypracování výsledku (def plus/minus/naso/delit)
+#### - Nekonečná smička (while True)
