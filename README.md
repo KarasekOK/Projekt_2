@@ -27,5 +27,6 @@ Skupina: P1
 ### Aplikace ve které je program napsán: [PyCharmCommunity](https://pycharm-community-edition.en.softonic.com/)
 ### Programovací jazyk: [Python](https://www.python.org/)
 
-  ### Stránka ze který jsem čerpal informace o fungování funkcí [W3Schools](https://www.w3schools.com/python/python_functions.asp)
-  ### Část z fukcemi zde:[Funkce](https://www.w3schools.com/python/python_functions.asp)
+## Využité zdroje
+### Stránka ze který jsem čerpal informace o fungování funkcí [W3Schools](https://www.w3schools.com/python/python_functions.asp)
+### Část z fukcemi zde:[Funkce](https://www.w3schools.com/python/python_functions.asp)
