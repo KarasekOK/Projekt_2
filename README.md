@@ -71,9 +71,11 @@ Skupina: P1
         def minus(rannum1, rannum2):
         rovnoM = rannum1 - rannum2
         print("Zprávný výsledek je",rovnoM)
+        
     def naso(rannum1, rannum2):
         rovnoN = rannum1 * rannum2
         print("Zprávný výsledek je",rovnoN)
+        
     def delit(rannum1, rannum2):
         rovnoD = rannum1 / rannum2
         print("Zprávný výsledek je",rovnoD)
