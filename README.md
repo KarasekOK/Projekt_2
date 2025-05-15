@@ -15,3 +15,6 @@ Skupina: P1
 ### Úkolem bylo udělat jednoduchej a pochopitelnej program s využitím funkcí.
 ### Protože fukce nejsou na naši škole moc probrané.
 ### Byl tento program zaměřenej hlavně na ně.
+
+## Co jsem uělal?
+### Jednoduchý časově nenároční program na procvičení základních matematickích operaci (+ - * /) kde obsah programu je primarně z funkcí.
