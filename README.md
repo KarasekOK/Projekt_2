@@ -23,5 +23,8 @@ Skupina: P1
 ## Cíl
 ### Protože jsem člověk který ve svém životě nic nepotřebuje a hodně věcí mi připadá zbitečních, tak jsem udělal něco co bi mohl aspoň muj bratr jednou použít až vyroste.
 
+## Aplikace / Programovací jazyk
+### Aplikace ve které je program napsán je [PyCharmCommunity](https://pycharm-community-edition.en.softonic.com/)
+
   ### Stránka ze který jsem čerpal informace o fungování funkcí [W3Schools](https://www.w3schools.com/python/python_functions.asp)
-  ### Část z fukcemi zde [Funkce](https://www.w3schools.com/python/python_functions.asp)
+  ### Část z fukcemi zde:[Funkce](https://www.w3schools.com/python/python_functions.asp)
