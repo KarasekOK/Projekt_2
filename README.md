@@ -16,7 +16,7 @@ Skupina: P1
 ### Protože fukce nejsou na naši škole moc probrané.
 ### Byl tento program zaměřenej hlavně na ně.
 
-## Co jsem uělal?
+## Co jsem udělal?
 ### Jednoduchý časově nenároční program na procvičení základních matematickích operaci (+, -, *, /) kde obsah programu je primárně z funkcí.
 ### Program je napsaní tak že se do něj dají jednoduše přidávat další matematické operace pro vlastní účely.
 
