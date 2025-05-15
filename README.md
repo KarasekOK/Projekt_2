@@ -35,5 +35,61 @@ Skupina: P1
 
 
 ## Využité zdroje
-### Stránka ze který jsem čerpal informace o fungování funkcí [W3Schools](https://www.w3schools.com/python/python_functions.asp)
-### Část z fukcemi zde:[Funkce](https://www.w3schools.com/python/python_functions.asp)
+#### Stránka ze který jsem čerpal informace o fungování funkcí [W3Schools](https://www.w3schools.com/python/python_functions.asp)
+#### Část z fukcemi zde:[Funkce](https://www.w3schools.com/python/python_functions.asp)
+
+## Program
+>import random
+
+def priklad():
+
+    if vyber_prikladu == 1:
+        print("Vypocítej příklad:",rannum1 ,"+", rannum2)
+        uzi_vyz1 = float(input("Zadej vysledek: "))
+        plus(rannum1,rannum2)
+
+    elif vyber_prikladu == 2:
+        print("Vypocítej příklad:", rannum1 ,"-", rannum2)
+        uzi_vyz1 = float(input("Zadej vysledek: "))
+        minus(rannum1, rannum2)
+
+    elif vyber_prikladu == 3:
+        print("Vypocítej příklad:", rannum1 ,"*", rannum2)
+        uzi_vyz1 = float(input("Zadej vysledek: "))
+        naso(rannum1, rannum2)
+
+    elif vyber_prikladu == 4:
+        print("Vypocítej příklad:", rannum1 ,"/", rannum2)
+        uzi_vyz1 = float(input("Zadej vysledek: "))
+        delit(rannum1, rannum2)
+
+def plus(rannum1, rannum2):
+    rovnoP = rannum1 + rannum2
+    print("Zprávný výsledek je",rovnoP)
+def minus(rannum1, rannum2):
+    rovnoM = rannum1 - rannum2
+    print("Zprávný výsledek je",rovnoM)
+def naso(rannum1, rannum2):
+    rovnoN = rannum1 * rannum2
+    print("Zprávný výsledek je",rovnoN)
+def delit(rannum1, rannum2):
+    rovnoD = rannum1 / rannum2
+    print("Zprávný výsledek je",rovnoD)
+
+while True:
+    rannum1 = random.randrange(0, 999)
+    rannum2 = random.randrange(0, 999)
+    print("1. Sčítání")
+    print("2. Odečítání")
+    print("3. Nasobení")
+    print("4. Dělení")
+    vyber_prikladu = float(input("Napiš číslo podle toho co chceš počítat."))
+    if vyber_prikladu == 1:
+        priklad()
+    elif vyber_prikladu == 2:
+        priklad()
+    elif vyber_prikladu == 3:
+        priklad()
+    elif vyber_prikladu == 4:
+        priklad()
+        
