@@ -116,7 +116,7 @@ Skupina: P1
 #### 2. Funkce !minus! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě odečíta dvě čisla mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
 #### 3. Funkce !naso! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě nasobí dvě proměné mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
 #### 4. Funkce !delit! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě dělí dvě čísla mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
-![projekvzpracovani](https://github.com/user-attachments/assets/1b6d4166-de9b-4bfc-9f07-4d475247dbd0)
+![projekvzpracovani](https://github.com/user-attachments/assets/e88cb66e-bb27-4bfa-89ca-0a3aa578c260)
 ![projekaqqpriklad](https://github.com/user-attachments/assets/568cd9da-c51e-4697-914c-bec2fe76b996)
 c
-c
+cc
