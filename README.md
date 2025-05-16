@@ -111,7 +111,11 @@ Skupina: P1
 #### 4.Pak nás program zavede do série podmínek, podle čísla které jsme z těch tří vybrali se  posuneme do vnitřku splněné podmínky a spouštíme Podávání příkladu.
 ![while projek](https://github.com/user-attachments/assets/0e1de3ae-d76a-4c20-9dcc-972b487f0d07)
 
-##
+## Vypracování výsledku (def plus/minus/naso/delit)
+#### 1. Funkce !plus! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě sčítá dvě čísla mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
+#### 2. Funkce !minus! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě odečíta dvě čisla mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
+#### 3. Funkce !naso! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě nasobí dvě proměné mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
+#### 4. Funkce !delit! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě dělí dvě čísla mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
 ![projekvzpracovani](https://github.com/user-attachments/assets/1b6d4166-de9b-4bfc-9f07-4d475247dbd0)
 ![projekaqqpriklad](https://github.com/user-attachments/assets/568cd9da-c51e-4697-914c-bec2fe76b996)
 c
