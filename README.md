@@ -127,3 +127,7 @@ Skupina: P1
 ![projekaqqpriklad](https://github.com/user-attachments/assets/3d9d5150-f9fe-4b78-8c4a-754e9472ebc5)
 
 ## Zde je krátké video (46 sekundový / bez zvuku) které zobrazuje terminál a jeho všechny funkce které jsem zmínil vyšše.
+
+
+https://github.com/user-attachments/assets/a9685657-6271-46b7-b217-6d3d2d93e01a
+
