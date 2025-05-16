@@ -106,9 +106,9 @@ Skupina: P1
 
 ## Nekonečná smička (while True)
 #### 1. V nekonečné smičce se nachází generace dvou náhodných proměních |rannum1| a |rannum2| z stanoveními hranicemi 0 až 999.
-#### Pak program vypíše zpravy aby uživately oznamil možnosti mezi kterými si vybere číslem vypsaní ve zprávách.
-#### Po uživately je žádáno aby zadal čísla od 1 do 4 pokud zadá jiné čísla než je poněm žádáno program se ho požádá znovu dokud nenapíše zprávný (dály však písmeno program ohlásí chybu protože float příjmá poze čísla neboli jejich hodnoty a musí se program restartovat).
-#### Pak nás program zavede do série podmínek, podle čísla které jsme z těch tří vybrali se  posuneme do vnitřku splněné podmínky a spouštíme Podávání příkladu.
+#### 2.Pak program vypíše zpravy aby uživately oznamil možnosti mezi kterými si vybere číslem vypsaní ve zprávách.
+#### 3.Po uživately je žádáno aby zadal čísla od 1 do 4 pokud zadá jiné čísla než je poněm žádáno program se ho požádá znovu dokud nenapíše zprávný (dály však písmeno program ohlásí chybu protože float příjmá poze čísla neboli jejich hodnoty a musí se program restartovat).
+#### 4.Pak nás program zavede do série podmínek, podle čísla které jsme z těch tří vybrali se  posuneme do vnitřku splněné podmínky a spouštíme Podávání příkladu.
 ![while projek](https://github.com/user-attachments/assets/596424c7-7e03-4d5c-ba9c-6d2fd2da2702)
 ![projekaqqpriklad](https://github.com/user-attachments/assets/568cd9da-c51e-4697-914c-bec2fe76b996)
 ![projekvzpracovani](https://github.com/user-attachments/assets/1b6d4166-de9b-4bfc-9f07-4d475247dbd0)
