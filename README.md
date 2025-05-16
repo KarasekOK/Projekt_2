@@ -131,3 +131,5 @@ Skupina: P1
 
 https://github.com/user-attachments/assets/a9685657-6271-46b7-b217-6d3d2d93e01a
 
+## Zavěr s poděkováním
+#### Chtěl bych poděkovat především panu učitely Vinterovi protože by mě nikdo nedonutil něco dělat ve svém volném čase a on je jedinej co mě donutí a toje dobře. Protože vždy při těhlech prací získám zpoustu informací a to sám hledánim co je dobrý na psychyku protože můžu teď aspoň říct že jsem pro sebe něco udělal.
