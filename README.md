@@ -118,10 +118,12 @@ Skupina: P1
 #### 4. Funkce !delit! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě dělí dvě čísla mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
 ![projekvzpracovani](https://github.com/user-attachments/assets/e88cb66e-bb27-4bfa-89ca-0a3aa578c260)
 
-##Podávání příkladu (def priklad)
+## Podávání příkladu (def priklad)
 #### 1. Podle našeho zvoleného čísla se dostaneme do vnitřku podmínky s danou operací 1.Sčítání, 2.Odečítaní, 3. Nasobení, 4. Dělení.
 #### 2. Když bylo naše zvolené číslo 1 tak se nám v terminálu oběví zprava ("Vypocítej příklad:",rannum1 ,"+", rannum2) kde |rannum1| a |rannum2| jsou vygenerovaní čísla už od smičky. Pak jsme vyžadani napsat číslo které vypočítame. Po zadání čísla nám hned vyskočí výsledek z příslušné funkce zde je to !plus!
 #### 3. Když bylo naše zvolené číslo 2 tak se nám v terminálu oběví zprava ("Vypocítej příklad:",rannum1 ,"-", rannum2) kde |rannum1| a |rannum2| jsou vygenerovaní čísla už od smičky. Pak jsme vyžadani napsat číslo které vypočítame. Po zadání čísla nám hned vyskočí výsledek z příslušné funkce zde je to !minus!
 #### 4. Když bylo naše zvolené číslo 3 tak se nám v terminálu oběví zprava ("Vypocítej příklad:",rannum1 ,"*", rannum2) kde |rannum1| a |rannum2| jsou vygenerovaní čísla už od smičky. Pak jsme vyžadani napsat číslo které vypočítame. Po zadání čísla nám hned vyskočí výsledek z příslušné funkce zde je to !naso!
 #### 5. Když bylo naše zvolené číslo 4 tak se nám v terminálu oběví zprava ("Vypocítej příklad:",rannum1 ,"/", rannum2) kde |rannum1| a |rannum2| jsou vygenerovaní čísla už od smičky. Pak jsme vyžadani napsat číslo které vypočítame. Po zadání čísla nám hned vyskočí výsledek z příslušné funkce zde je to !delit!
 ![projekaqqpriklad](https://github.com/user-attachments/assets/3d9d5150-f9fe-4b78-8c4a-754e9472ebc5)
+
+## Zde je krátké video (46 sekundový / bez zvuku) které zobrazuje terminál a jeho všechny funkce které jsem zmínil vyšše.
