@@ -125,6 +125,3 @@ Skupina: P1
 #### 4. Když bylo naše zvolené číslo 3 tak se nám v terminálu oběví zprava ("Vypocítej příklad:",rannum1 ,"*", rannum2) kde |rannum1| a |rannum2| jsou vygenerovaní čísla už od smičky. Pak jsme vyžadani napsat číslo které vypočítame. Po zadání čísla nám hned vyskočí výsledek z příslušné funkce zde je to !naso!
 #### 5. Když bylo naše zvolené číslo 4 tak se nám v terminálu oběví zprava ("Vypocítej příklad:",rannum1 ,"/", rannum2) kde |rannum1| a |rannum2| jsou vygenerovaní čísla už od smičky. Pak jsme vyžadani napsat číslo které vypočítame. Po zadání čísla nám hned vyskočí výsledek z příslušné funkce zde je to !delit!
 ![projekaqqpriklad](https://github.com/user-attachments/assets/3d9d5150-f9fe-4b78-8c4a-754e9472ebc5)
-c
-cc
-c
