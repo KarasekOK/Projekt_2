@@ -114,7 +114,7 @@ Skupina: P1
 ## Vypracování výsledku (def plus/minus/naso/delit)
 #### 1. Funkce !plus! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě sčítá dvě čísla mezi sebou do proměné rovnoP (P jako Plus): rovnoP je potom hned vypsáno do terminálu.
 #### 2. Funkce !minus! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě odečíta dvě čisla mezi sebou do proměné rovnoM (M jako Minus): rovnoM je potom hned vypsáno do terminálu.
-#### 3. Funkce !naso! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě nasobí dvě proměné mezi sebou do proměné rovnN (n jako Nasobit): rovnoN je potom hned vypsáno do terminálu.
+#### 3. Funkce !naso! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě nasobí dvě proměné mezi sebou do proměné rovnN (N jako Nasobit): rovnoN je potom hned vypsáno do terminálu.
 #### 4. Funkce !delit! co vyžaduje proměné |rannum1| a |rannum2| pro její funkčnost. V tomhle případě dělí dvě čísla mezi sebou do proměné rovnoD (D jako Dělit): rovnoD je potom hned vypsáno do terminálu.
 ![projekvzpracovani](https://github.com/user-attachments/assets/e88cb66e-bb27-4bfa-89ca-0a3aa578c260)
 
